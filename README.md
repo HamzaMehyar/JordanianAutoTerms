@@ -15,7 +15,7 @@ This repository contains a curated list of terminology used by Jordanian mechani
 | بطانات خارجية      | Wheel Well Cover                          |                                                    |
 | بطناج              | PowerSlide(Oversteer)                     |                                                    |
 | بطيخة/الطنجرة      | Torque Converter                          |                                                    |
-| بك اكس/جعمكة       | Differential                              |                                                    |
+| بككس/جعمكة         | Differential                              |                                                    |
 | بلف                | Solenoid                                  |                                                    |
 | بوجية/شمعة الاحتراق | Spark Plug                                | In French, une bougie means candle or spark plug   |
 | بوكسات كفة         | Control Arm Bushing                       |                                                    |
@@ -49,7 +49,10 @@ This repository contains a curated list of terminology used by Jordanian mechani
 | صينية كلتش         | Pressure Plate                            |                                                    |
 | ضاغط               | Fuel Pressure Regulator                   |                                                    |
 | ضوجان              | RPM                                       |                                                    |
+| طرمبة              | Pump                                      |                                                    |
+| طرمبة مي           | Water Pump                                |                                                    |
 | طرمبة بنزين        | Fuel Pump                                 |                                                    |
+| سلاك بواجي          | Ignition Coils                           |                                                    |
 | طرمبة كلتش سفلية   | Clutch Slave Cylinder                     |                                                    |
 | طرمبة كلتش علوية   | Clutch Master Cylinder                    |                                                    |
 | طمبون ممتص الصدمات | Bumper                                    |                                                    |
